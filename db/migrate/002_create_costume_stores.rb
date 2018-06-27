@@ -12,5 +12,5 @@ class CreateCostumeStores < ActiveRecord::Migration[4.2]
       c.float :closing_time
     end
   end
-  
+
 end
